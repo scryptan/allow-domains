@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,babook.org
 DOMAIN-SUFFIX,baginya.org
 DOMAIN-SUFFIX,baikal-journal.ru
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bato.to
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
@@ -260,14 +259,12 @@ DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gamesrepack.com
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gelbooru.com
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,germania.one
 DOMAIN-SUFFIX,getoutline.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gfn.am
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,glpals.com
@@ -278,7 +275,6 @@ DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gordonua.com
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,gr-assets.com
@@ -397,7 +393,6 @@ DOMAIN-SUFFIX,liveuamap.com
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,locals.md
 DOMAIN-SUFFIX,lolz.guru
-DOMAIN-SUFFIX,lookerstudio.google.com
 DOMAIN-SUFFIX,lostfilm.run
 DOMAIN-SUFFIX,lostfilm.top
 DOMAIN-SUFFIX,lostfilm.tv
@@ -456,7 +451,6 @@ DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netlify.com
 DOMAIN-SUFFIX,networksolutions.com
 DOMAIN-SUFFIX,newark.com
-DOMAIN-SUFFIX,news.google.com
 DOMAIN-SUFFIX,newsru.co.il
 DOMAIN-SUFFIX,newsru.com
 DOMAIN-SUFFIX,newstudio.tv
@@ -692,7 +686,6 @@ DOMAIN-SUFFIX,strana.news
 DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,stulchik.net
-DOMAIN-SUFFIX,suggestqueries.google.com
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,suspilne.media
@@ -823,7 +816,6 @@ DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,welt.de
 DOMAIN-SUFFIX,wetransfer.com
 DOMAIN-SUFFIX,wheather.com
-DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,wikiart.org
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,wilsoncenter.org
@@ -845,17 +837,6 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yaoilib.me
 DOMAIN-SUFFIX,yle.fi
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube-ui.l.google.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
-DOMAIN-SUFFIX,youtubei.googleapis.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,yt-video-upload.l.google.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ytimg.l.google.com
-DOMAIN-SUFFIX,yting.com
 DOMAIN-SUFFIX,yummyani.me
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zannn.top
