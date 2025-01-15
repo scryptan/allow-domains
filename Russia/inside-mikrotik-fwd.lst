@@ -444,6 +444,7 @@
 /ip dns static add name=nba.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=neformat.com.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=neo4j.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=netapp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=netflix.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=netlify.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=networksolutions.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -663,6 +664,7 @@
 /ip dns static add name=smartdeploy.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=smashwords.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=smassets.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=snapmagic.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=snort.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=snyk.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=soapui.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -848,11 +850,11 @@
 /ip dns static add name=znanija.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zohomail.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zona.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=designer.microsoft.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=xsts.auth.xboxlive.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=public.parsec.app type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=discord-attachments-uploads-prd.storage.googleapis.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=xsts.auth.xboxlive.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=builds.parsec.app type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=pkgs.tailscale.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=designer.microsoft.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=t.co type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=copilot.microsoft.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=discord-attachments-uploads-prd.storage.googleapis.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=builds.parsec.app type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
