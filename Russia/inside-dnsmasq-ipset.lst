@@ -303,6 +303,7 @@ ipset=/hetzner.com/vpn_domains
 ipset=/hollisterco.com/vpn_domains
 ipset=/holod.media/vpn_domains
 ipset=/home-connect.com/vpn_domains
+ipset=/honeywell.com/vpn_domains
 ipset=/hostgator.com/vpn_domains
 ipset=/hostinger.com/vpn_domains
 ipset=/hotels.com/vpn_domains
