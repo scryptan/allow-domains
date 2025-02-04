@@ -762,6 +762,7 @@
 /ip dns static add name=ppcrimea.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pravdabeslana.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pravdnr.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=pravenc.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=premier.one type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=premium.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pressa.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
