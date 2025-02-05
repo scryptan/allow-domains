@@ -612,6 +612,8 @@
 /ip dns static add name=myarena.site type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=mybook.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=myshows.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=mysku.club type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=mysku.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=myvi.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=mzdnr.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=mzlnr.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
