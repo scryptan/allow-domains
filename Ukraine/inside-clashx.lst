@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,3dn.ru
 DOMAIN-SUFFIX,3dnews.ru
 DOMAIN-SUFFIX,3dtoday.ru
 DOMAIN-SUFFIX,4brain.ru
+DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,5-tv.ru
 DOMAIN-SUFFIX,777.com
 DOMAIN-SUFFIX,7themes.su
@@ -48,6 +49,7 @@ DOMAIN-SUFFIX,alchevsk.su
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,algoritmika.org
 DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,all-poster.ru
 DOMAIN-SUFFIX,allcrimea.net
 DOMAIN-SUFFIX,altaipalace.net
 DOMAIN-SUFFIX,amalgama-lab.com
@@ -69,6 +71,7 @@ DOMAIN-SUFFIX,apptimizm.pro
 DOMAIN-SUFFIX,apptractor.ru
 DOMAIN-SUFFIX,aprlnr.su
 DOMAIN-SUFFIX,arbitr.ru
+DOMAIN-SUFFIX,arcanecoast.ru
 DOMAIN-SUFFIX,argocasino50.com
 DOMAIN-SUFFIX,armgov.ru
 DOMAIN-SUFFIX,artmoney.ru
@@ -84,6 +87,7 @@ DOMAIN-SUFFIX,atraining.ru
 DOMAIN-SUFFIX,au-donetsk.ru
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autobook.one
+DOMAIN-SUFFIX,avcdn.net
 DOMAIN-SUFFIX,avtopribor.ru
 DOMAIN-SUFFIX,bafista.ru
 DOMAIN-SUFFIX,baltbet.ru
@@ -149,6 +153,8 @@ DOMAIN-SUFFIX,chernayamagiya.com
 DOMAIN-SUFFIX,chipmaker.ru
 DOMAIN-SUFFIX,chto-eto-takoe.ru
 DOMAIN-SUFFIX,cikdnr.su
+DOMAIN-SUFFIX,ciliz.com
+DOMAIN-SUFFIX,citilink.ru
 DOMAIN-SUFFIX,click.ru
 DOMAIN-SUFFIX,cloudbet.com
 DOMAIN-SUFFIX,club443.ru
@@ -183,12 +189,14 @@ DOMAIN-SUFFIX,cwer.ru
 DOMAIN-SUFFIX,cwer.su
 DOMAIN-SUFFIX,cwer.ws
 DOMAIN-SUFFIX,cyberforum.ru
+DOMAIN-SUFFIX,d-cd.net
 DOMAIN-SUFFIX,d3-28.ru
 DOMAIN-SUFFIX,d4reflection.org
 DOMAIN-SUFFIX,dan-news.info
 DOMAIN-SUFFIX,darkside.ru
 DOMAIN-SUFFIX,datadome.co
 DOMAIN-SUFFIX,datalock.ru
+DOMAIN-SUFFIX,ddos-guard.net
 DOMAIN-SUFFIX,debalcevo-dnr.ru
 DOMAIN-SUFFIX,denis-pushilin.info
 DOMAIN-SUFFIX,denis-pushilin.ru
@@ -198,6 +206,7 @@ DOMAIN-SUFFIX,deviantart.net
 DOMAIN-SUFFIX,digitalrussia.tv
 DOMAIN-SUFFIX,dimonvideo.ru
 DOMAIN-SUFFIX,djankoiadm.ru
+DOMAIN-SUFFIX,dklab.ru
 DOMAIN-SUFFIX,dlink.ru
 DOMAIN-SUFFIX,dmde.ru
 DOMAIN-SUFFIX,dmkos.ru
@@ -217,6 +226,7 @@ DOMAIN-SUFFIX,dnronlane.su
 DOMAIN-SUFFIX,dnrsovet.su
 DOMAIN-SUFFIX,dns-shop.ru
 DOMAIN-SUFFIX,do-mein.ru
+DOMAIN-SUFFIX,docs-python.ru
 DOMAIN-SUFFIX,domkino-premium.tv
 DOMAIN-SUFFIX,domkino.tv
 DOMAIN-SUFFIX,domkinopremium.tv
@@ -282,6 +292,8 @@ DOMAIN-SUFFIX,fastpic.org
 DOMAIN-SUFFIX,feedsmart.ru
 DOMAIN-SUFFIX,fgi-lnr.su
 DOMAIN-SUFFIX,ficbook.net
+DOMAIN-SUFFIX,filmic.ac
+DOMAIN-SUFFIX,filmix.ac
 DOMAIN-SUFFIX,finbet.bet
 DOMAIN-SUFFIX,findexiq.com
 DOMAIN-SUFFIX,fixmypc.ru
@@ -381,6 +393,8 @@ DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habr.ru
 DOMAIN-SUFFIX,hamsdr.ru
 DOMAIN-SUFFIX,hdrezka.ag
+DOMAIN-SUFFIX,hdrezka.me
+DOMAIN-SUFFIX,hdrezka.org
 DOMAIN-SUFFIX,health-diet.ru
 DOMAIN-SUFFIX,hexlet.io
 DOMAIN-SUFFIX,hi-fi-forum.net
@@ -436,6 +450,7 @@ DOMAIN-SUFFIX,it999.ru
 DOMAIN-SUFFIX,itc-life.ru
 DOMAIN-SUFFIX,ithelp21.ru
 DOMAIN-SUFFIX,ixbt.com
+DOMAIN-SUFFIX,ixbt.games
 DOMAIN-SUFFIX,iz.ru
 DOMAIN-SUFFIX,izbirkom.ru
 DOMAIN-SUFFIX,jaomix.ru
@@ -529,6 +544,7 @@ DOMAIN-SUFFIX,m24.ru
 DOMAIN-SUFFIX,magonet.ru
 DOMAIN-SUFFIX,magzdb.org
 DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mailrugames.com
 DOMAIN-SUFFIX,makeyevka.ru
 DOMAIN-SUFFIX,mamba.ru
 DOMAIN-SUFFIX,manaeff.ru
@@ -622,6 +638,7 @@ DOMAIN-SUFFIX,muz1.tv
 DOMAIN-SUFFIX,mvd.ru
 DOMAIN-SUFFIX,mvddnr.ru
 DOMAIN-SUFFIX,mvdlnr.ru
+DOMAIN-SUFFIX,my.com
 DOMAIN-SUFFIX,my.games
 DOMAIN-SUFFIX,myarena.ru
 DOMAIN-SUFFIX,myarena.site
@@ -670,6 +687,7 @@ DOMAIN-SUFFIX,ngs.ru
 DOMAIN-SUFFIX,nihon-go.ru
 DOMAIN-SUFFIX,nix.ru
 DOMAIN-SUFFIX,nm-g.ru
+DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,nomadcasino.com
 DOMAIN-SUFFIX,novopressa.ru
 DOMAIN-SUFFIX,novorosinform.org
@@ -711,7 +729,9 @@ DOMAIN-SUFFIX,onlinezakladki.ru
 DOMAIN-SUFFIX,onmedia.io
 DOMAIN-SUFFIX,ontvtime.ru
 DOMAIN-SUFFIX,opcrimea.ru
+DOMAIN-SUFFIX,opencart-russia.ru
 DOMAIN-SUFFIX,opennet.ru
+DOMAIN-SUFFIX,opentrackers.org
 DOMAIN-SUFFIX,oplot.tv
 DOMAIN-SUFFIX,orderingmemory.com
 DOMAIN-SUFFIX,osnova.io
@@ -799,6 +819,7 @@ DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,psxplanet.ru
 DOMAIN-SUFFIX,ptspb.ru
 DOMAIN-SUFFIX,pyatilistnik.org
+DOMAIN-SUFFIX,pydocs.ru
 DOMAIN-SUFFIX,qiwi.com
 DOMAIN-SUFFIX,qiwi.kz
 DOMAIN-SUFFIX,qiwi.me
@@ -849,6 +870,7 @@ DOMAIN-SUFFIX,rmnews.ru
 DOMAIN-SUFFIX,rncb.ru
 DOMAIN-SUFFIX,rock-n-roll.ru
 DOMAIN-SUFFIX,rolz.org
+DOMAIN-SUFFIX,rosebook.ru
 DOMAIN-SUFFIX,rospotrebnadzor.ru
 DOMAIN-SUFFIX,roszdravnadzor.ru
 DOMAIN-SUFFIX,rov-adm.su
@@ -857,6 +879,7 @@ DOMAIN-SUFFIX,rp24.info
 DOMAIN-SUFFIX,rp5.ru
 DOMAIN-SUFFIX,rsload.net
 DOMAIN-SUFFIX,rsload.ru
+DOMAIN-SUFFIX,rsload.website
 DOMAIN-SUFFIX,rst-dnr.ru
 DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rt.ru
@@ -874,9 +897,11 @@ DOMAIN-SUFFIX,rusmatica.org
 DOMAIN-SUFFIX,rusnext.ru
 DOMAIN-SUFFIX,russia.tv
 DOMAIN-SUFFIX,russian-center.ru
+DOMAIN-SUFFIX,rust-lang.ru
 DOMAIN-SUFFIX,rusvesna.su
 DOMAIN-SUFFIX,rutab.net
 DOMAIN-SUFFIX,rutor.info
+DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutrk.org
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
@@ -974,6 +999,7 @@ DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strana.ua
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,stv92.ru
+DOMAIN-SUFFIX,sucwer.ws
 DOMAIN-SUFFIX,sudrf.ru
 DOMAIN-SUFFIX,supcourt-dpr.su
 DOMAIN-SUFFIX,svetovik.info
@@ -1032,6 +1058,8 @@ DOMAIN-SUFFIX,trashbox.ru
 DOMAIN-SUFFIX,treeone.ru
 DOMAIN-SUFFIX,tribuna.com
 DOMAIN-SUFFIX,trkmillet.ru
+DOMAIN-SUFFIX,trovo.live
+DOMAIN-SUFFIX,trovocdn.net
 DOMAIN-SUFFIX,trudgor.su
 DOMAIN-SUFFIX,trudslava.su
 DOMAIN-SUFFIX,tsiklnr.su
@@ -1085,6 +1113,7 @@ DOMAIN-SUFFIX,vitrina.tv
 DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vkforms.ru
+DOMAIN-SUFFIX,vkontakte.ru
 DOMAIN-SUFFIX,vkopt.net
 DOMAIN-SUFFIX,vkplay.live
 DOMAIN-SUFFIX,vkvideo.ru
@@ -1108,6 +1137,7 @@ DOMAIN-SUFFIX,vsednr.ru
 DOMAIN-SUFFIX,vvdev.ru
 DOMAIN-SUFFIX,vz.ru
 DOMAIN-SUFFIX,walletone.com
+DOMAIN-SUFFIX,wargm.ru
 DOMAIN-SUFFIX,wasd.tv
 DOMAIN-SUFFIX,wdho.ru
 DOMAIN-SUFFIX,web-moneta.com
@@ -1157,6 +1187,7 @@ DOMAIN-SUFFIX,xn--h1aheeehel.xn--p1acf
 DOMAIN-SUFFIX,xxiveklnr.su
 DOMAIN-SUFFIX,ya.com
 DOMAIN-SUFFIX,ya.ru
+DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yadro.ru
 DOMAIN-SUFFIX,yalta-tv.ru
 DOMAIN-SUFFIX,yaltatv.ru
@@ -1195,3 +1226,4 @@ DOMAIN-SUFFIX,zhdanovka.com
 DOMAIN-SUFFIX,zilore.com
 DOMAIN-SUFFIX,zinenkos.site
 DOMAIN-SUFFIX,zoneofgames.ru
+DOMAIN-SUFFIX,zozo.gg
