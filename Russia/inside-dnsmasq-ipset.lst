@@ -134,6 +134,7 @@ ipset=/coursera.org/vpn_domains
 ipset=/cpu-monkey.com/vpn_domains
 ipset=/credly.com/vpn_domains
 ipset=/crunchyroll.com/vpn_domains
+ipset=/cub.red/vpn_domains
 ipset=/cucumber.io/vpn_domains
 ipset=/currenttime.tv/vpn_domains
 ipset=/cursorinfo.co.il/vpn_domains

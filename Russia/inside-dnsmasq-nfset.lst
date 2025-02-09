@@ -134,6 +134,7 @@ nftset=/coursera.org/4#inet#fw4#vpn_domains
 nftset=/cpu-monkey.com/4#inet#fw4#vpn_domains
 nftset=/credly.com/4#inet#fw4#vpn_domains
 nftset=/crunchyroll.com/4#inet#fw4#vpn_domains
+nftset=/cub.red/4#inet#fw4#vpn_domains
 nftset=/cucumber.io/4#inet#fw4#vpn_domains
 nftset=/currenttime.tv/4#inet#fw4#vpn_domains
 nftset=/cursorinfo.co.il/4#inet#fw4#vpn_domains
