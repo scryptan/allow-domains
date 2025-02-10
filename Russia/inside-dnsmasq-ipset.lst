@@ -70,6 +70,7 @@ ipset=/bbci.co.uk/vpn_domains
 ipset=/bell-sw.com/vpn_domains
 ipset=/bellingcat.com/vpn_domains
 ipset=/bestbuy.com/vpn_domains
+ipset=/bestchange.ru/vpn_domains
 ipset=/bgpmon.net/vpn_domains
 ipset=/bihus.info/vpn_domains
 ipset=/bing.com/vpn_domains
