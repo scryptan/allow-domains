@@ -87,6 +87,7 @@
 /ip dns static add name=bradyid.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=brave.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=brawlstarsgame.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=broadcom.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=broncosportforum.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bsh-group.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=btdig.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -843,6 +844,7 @@
 /ip dns static add name=yaoilib.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yeggi.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yle.fi type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=youtu.be type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yummyani.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zahav.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zannn.top type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -859,11 +861,11 @@
 /ip dns static add name=znanija.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zohomail.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zona.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=discord-attachments-uploads-prd.storage.googleapis.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=pkgs.tailscale.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=copilot.microsoft.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=designer.microsoft.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=xsts.auth.xboxlive.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=public.parsec.app type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=pkgs.tailscale.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=discord-attachments-uploads-prd.storage.googleapis.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
-/ip dns static add name=t.co type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=xsts.auth.xboxlive.com type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
 /ip dns static add name=builds.parsec.app type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
+/ip dns static add name=t.co type=FWD address-list=allow-domains match-subdomain=no forward-to=localhost
